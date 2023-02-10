@@ -1,0 +1,1 @@
+{"config": {"1": {"script": "lab1", "commit": "", "params": {"enableSectors": false, "enableRem": false, "enablesignalpower": false, "enableInstTput": false, "enableTput": false, "bsTxPower": 25.0, "enablesinr": false, "SharedMemoryKey": "1234", "SharedMemoryPoolSize": "4096"}}}}
