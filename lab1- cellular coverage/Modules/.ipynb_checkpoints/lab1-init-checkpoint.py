@@ -15,7 +15,7 @@ curr_dt = datetime.now()
 timestamp = int(round(curr_dt.timestamp()))
 random.seed(timestamp)
 
-runid = random.randint(1,100)
+runid = 67 #random.randint(1,100)
 
 
 param1 = []
